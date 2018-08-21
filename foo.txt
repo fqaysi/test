@@ -1,4 +1,8 @@
 Friday Sunday Saturday
 Faisal Qaysi
+<<<<<<< HEAD
 More stuff added to foo
 Groundhog day
+=======
+Change from someone else
+>>>>>>> 77ad6bbcad6ee6843d058b65af5183900d52e9bf
