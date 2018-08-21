@@ -1,8 +1,5 @@
 Friday Sunday Saturday
 Faisal Qaysi
 Fun about to begin
-<<<<<<< HEAD
 Groundhog day
-=======
 Change from someone else
->>>>>>> 6e6a0cb198e8c0bbf92e31fb2019ae74d16dc7c0
