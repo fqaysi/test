@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-Hello you people
-=======
-Hello Faisal Qaysi
-Glad you could join us.
->>>>>>> newfeature2
+Friday
