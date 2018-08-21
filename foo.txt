@@ -1,6 +1,6 @@
 Friday Sunday Saturday
 Faisal Qaysi
-Fun about to begin.
+Fun about to begin
 <<<<<<< HEAD
 Groundhog day
 =======
